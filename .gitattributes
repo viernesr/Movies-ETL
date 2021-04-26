@@ -1,0 +1,12 @@
+<<<<<<< HEAD
+credits.csv filter=lfs diff=lfs merge=lfs -text
+ratings.csv filter=lfs diff=lfs merge=lfs -text
+Resources/ratings.csv filter=lfs diff=lfs merge=lfs -text
+Resources/credits.csv filter=lfs diff=lfs merge=lfs -text
+*.csv filter=lfs diff=lfs merge=lfs -text
+=======
+credits.csv filter=lfs diff=lfs merge=lfs -text
+ratings.csv filter=lfs diff=lfs merge=lfs -text
+Resources/ratings.csv filter=lfs diff=lfs merge=lfs -text
+Resources/credits.csv filter=lfs diff=lfs merge=lfs -text
+>>>>>>> 323981d77cc9474195509d9cda237b8e5594f90c
